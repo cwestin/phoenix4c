@@ -1,0 +1,23 @@
+# ignore emacs backup files
+*~
+
+# conmpiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.obj
+*.so
+*.a
+
+# packages
+*.tar
+*.gz
+*.zip
+*.rpm
+*.jar
+*.war
+
+# just in this directory, Makefile is generated
+/Makefile
